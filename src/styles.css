@@ -1,0 +1,121 @@
+body {
+  font-family: "Open Sans", sans-serif;
+font-size: 14px;
+    margin: 0 auto;
+    padding: 25px;
+    max-width: 400px;
+    min-width: 400px;
+    color: #2A2F4F;
+    background-color: #FDE2F3;
+    text-align: center;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 2em;
+    color: #D864A9;
+    margin: 20px 0 30px;
+  }
+
+  .rounded-image {
+    height: 300px;
+    width: 400px;
+  }
+  
+  .addTask {
+    margin: -170px 10px 10px 10px;
+  }
+  .card {
+    border-radius: 23px;
+    position: relative;
+    padding: 1px 75px 40px 75px;
+    background-color: #917FB3;
+    margin: 50px;
+    height: 82px;
+    width: 150px;
+    font-size: 10px;
+    box-shadow: 0 2px 5px #ccc;
+    text-align: center;
+  }
+  
+  
+  .input-1 {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    font-size: 1.2rem;
+    margin: 200px 100px 20px 17px ;
+    padding: 1.5rem 2rem;
+    border-radius: 0.2rem;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    width: 300px;
+    height: 5px;;
+    display: block;
+    border-bottom: 0.3rem solid transparent;
+    transition: all 0.3s;
+  }
+  
+.button-1 {
+  background-color: #E5BEEC;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 10px 16px;
+  position: relative;
+  float: left;
+  text-align: center;
+  vertical-align: baseline;
+  touch-action: manipulation;
+  margin: 70px -50px 20px -40px;
+}
+
+.button-2 {
+  background-color: #E5BEEC;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 10px 16px;
+  position: relative;
+  float: right;
+  text-align: center;
+  vertical-align: baseline;
+  touch-action: manipulation;
+  margin: 70px -50px 20px -40px;
+}
+
+.add-button {
+  margin-left: -5px;
+  background-color: #E5BEEC;
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  padding: 10px 16px;
+  position: relative;
+  text-align: center;
+  vertical-align: baseline;
+  touch-action: manipulation;
+}
+  
+
+  
